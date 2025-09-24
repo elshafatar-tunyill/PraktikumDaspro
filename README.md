@@ -1,6 +1,6 @@
 Hello Github, ini adalah repository pertama saya 
 
 
-Ini fitur 2
-ini fitur percobaan 2
-haloooo semuanya saya atar 2
+Ini fitur 1
+ini fitur percobaan 1
+haloooo semuanya saya atar 1
